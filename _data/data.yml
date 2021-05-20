@@ -69,7 +69,7 @@ projects:
     assignments:
       - title: Enviromentality
         link: "#hook"
-        tagline: "A video game about exploring and adventuring where the terrain changes in a fast paced mode."
+        tagline: "A video game about exploring and adventuring where the terrain changes in a fast paced mode. This project is temporally on hold because of my lessons in the Univeristy"
 
 skills:
     title: Skills &amp; Proficiency
@@ -82,6 +82,12 @@ skills:
         level: 50%
         
       - name: Linux systems
-        level : 60%
+        level: 60%
          
+      - name: MySQL
+        level: 60%
+        
+      - name: Offensive Security
+        level: 60%
+        
 footer: >
